@@ -31,6 +31,7 @@ end
 
 local FindCraftSurface = ISEntityUI.FindCraftSurface
 
+---@diagnostic disable-next-line: duplicate-set-field
 function ISEntityUI.FindCraftSurface(_player, _radius)
     local object = FindCraftSurface(_player, _radius)
     if object then return object end
