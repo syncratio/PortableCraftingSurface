@@ -1,7 +1,8 @@
 version=1
+id=3791630156
 title=Portable Crafting Surface
 description=A cutting board in your inventory lets you craft anywhere.
 description=
 description=Use the crafting window. The inventory right-click quick-craft menu is not affected.
-tags=
-visibility=private
+tags=Build 42;Balance;QoL
+visibility=unlisted
