@@ -1,4 +1,4 @@
-A cutting board in your inventory lets you craft anywhere.
+A cutting board in your inventory lets you craft recipes that require a surface.
 Crafting window only, inventory context menu can't be patched via Lua.
 
 

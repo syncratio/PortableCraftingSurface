@@ -1,7 +1,7 @@
 version=1
 id=3791630156
 title=Portable Crafting Surface
-description=A cutting board in your inventory lets you craft anywhere.
+description=A cutting board in your inventory lets you craft recipes that require a surface.
 description=Crafting window only, inventory context menu can't be patched via Lua.
 description=
 description=
