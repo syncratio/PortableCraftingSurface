@@ -2,6 +2,7 @@ name=Portable Crafting Surface
 id=PortableCraftingSurface
 description=A cutting board in your inventory lets you craft anywhere.
 author=syncratio
+url=https://github.com/syncratio/PortableCraftingSurface
 poster=poster.png
 icon=icon.png
 versionMin=42.0.0
