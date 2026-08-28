@@ -1,3 +1,9 @@
 A cutting board in your inventory lets you craft anywhere.
+Crafting window only, inventory context menu can't be patched via Lua.
 
-Use the crafting window. The inventory right-click quick-craft menu is not affected.
+
+The mod is 100% AI slop, not a single code line was written by a developer, a few were removed though.
+
+
+Workshop ID: 3791630156
+Mod ID: PortableCraftingSurface
