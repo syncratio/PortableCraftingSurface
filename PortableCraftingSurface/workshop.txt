@@ -2,6 +2,6 @@ version=1
 title=Portable Crafting Surface
 description=A cutting board in your inventory lets you craft anywhere.
 description=
-description=Real surfaces still take priority, and workstation recipes are unaffected.
+description=Use the crafting window. The inventory right-click quick-craft menu is not affected.
 tags=
 visibility=private
