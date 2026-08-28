@@ -1,0 +1,20 @@
+A cutting board in your inventory counts as a work surface, letting you craft
+anywhere without hunting for a table.
+
+Real surfaces always take priority - stand at a counter and the game uses the
+counter. Workstation recipes (anvils, forges) are unaffected and stay gated.
+Crafting in the dark and crafting from items on the floor are also unchanged.
+
+Qualifying items:
+ - Wooden Cutting Board
+ - Plastic Cutting Board
+
+KNOWN LIMITATION
+Use the crafting window. The inventory right-click quick-craft menu only lists
+surface recipes when you are near a real surface - that list is built in the
+game's Java code and cannot be changed from Lua.
+
+MULTIPLAYER
+Should work: the surface is only ever checked client-side, and the object is
+passed to the server the same way vanilla passes a real one. Untested on a
+dedicated server.

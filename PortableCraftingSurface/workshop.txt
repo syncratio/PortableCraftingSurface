@@ -1,0 +1,7 @@
+version=1
+title=Portable Crafting Surface
+description=A cutting board in your inventory counts as a work surface, letting you craft anywhere.
+description=
+description=Real surfaces still take priority, and workstation recipes are unaffected.
+tags=
+visibility=private
