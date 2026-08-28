@@ -1,6 +1,8 @@
 name=Portable Crafting Surface
 id=PortableCraftingSurface
-description=A cutting board in your inventory counts as a work surface, letting you craft anywhere.
+description=A cutting board in your inventory lets you craft anywhere.
 author=syncratio
+poster=poster.png
+icon=icon.png
 versionMin=42.0.0
 modversion=1.0.0
