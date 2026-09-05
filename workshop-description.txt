@@ -2,6 +2,11 @@ A cutting board in your inventory lets you craft recipes that require a surface.
 Crafting window only, inventory context menu can't be patched via Lua.
 
 
+My other mods:
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3796069040]Craftable Barbell and Dumbbells[/url]
+
+
 The mod is 100% AI slop, not a single code line was written by a developer, a few were removed though.
 
 

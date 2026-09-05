@@ -4,6 +4,9 @@ title=Portable Crafting Surface
 description=A cutting board in your inventory lets you craft recipes that require a surface.
 description=Crafting window only, inventory context menu can't be patched via Lua.
 description=
+description=My other mods:
+description=
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3796069040]Craftable Barbell and Dumbbells[/url]
 description=
 description=The mod is 100% AI slop, not a single code line was written by a developer, a few were removed though.
 tags=Build 42;Balance;QoL
